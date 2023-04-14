@@ -35,6 +35,8 @@ ActiveRecord::Schema.define(version: 2023_04_14_112205) do
   create_table "students", force: :cascade do |t|
     t.string "name"
     t.integer "grade_id"
+    t.integer "reg_no"
+    t.string "address"
   end
 
   create_table "teachers", force: :cascade do |t|
