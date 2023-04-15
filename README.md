@@ -3,7 +3,7 @@ This project task management app API is a simple web API where you make CRUD cal
 
 
 # Front-end Project Task Management Interface
-You can use this API in conjunction with my front-end project management app see the repo - https://github.com/kericho/my-app-frontend
+You can use this API in conjunction with my front-end project management app see the repo git@github.com:githahu/tp-app-front-end.git
 
 ## Technologies Used in API
 - Ruby
