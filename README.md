@@ -11,26 +11,18 @@ You can use this API in conjunction with my front-end project management app see
 - SQLite3
 - Rack
 
-## Relationship with Database
-+ task
- -Belong to a user
 
-+ user
- -Has many tasks
- -Has secure password
 
- ## Delevarables
- - As i user i can be able to register and login to the app
- - As i user i can be able to create task
- - AS i user i can be able to view task, delete task, and update task.
+ ## Delivarables
+ - possible to create, post, view and delete a teacher,student, grade and marks
 
 
 
 ## The app CRUD calls
-- CREATE task
-- GET tasks
-- DELETE task
-- UPDATE task
+- CREATE 
+- GET 
+- DELETE
+- UPDATE 
 
  ## Installation
 
